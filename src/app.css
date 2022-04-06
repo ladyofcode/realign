@@ -1,0 +1,29 @@
+:root {
+    --dark-bg-color: #161122;
+    --dark-dot-color: #696574;
+    --dark-heading-color: #ffffff;
+
+    --light-bg-color: #fdfdfd;
+    --light-dot-color: #8a8a8a;
+    --light-heading-color: #353535;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    font-size: 1em;
+    font-family: inherit;
+}
+
+body {
+    background: linear-gradient(90deg, var(--light-bg-color) 21px, transparent 1%) center,
+        linear-gradient(var(--light-bg-color) 21px, transparent 1%) center, var(--light-dot-color);
+    background-size: 22px 22px;
+
+}
+
+h1,
+h2,
+h3 {
+    color: var(--light-heading-color);
+}
