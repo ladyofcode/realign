@@ -1337,7 +1337,7 @@
 			<div class="ml-form-align-left ">
 				<div class="ml-form-embedWrapper embedForm">
 					<div class="ml-form-embedBody ml-form-embedBodyHorizontal row-form">
-							<h2>Sign up to get everything in your inbox</h2>
+							<h2>Get everything in your inbox</h2>
 
 						<form
 							class="ml-block-form"
@@ -1368,7 +1368,7 @@
 									</div>
 
 									<div class="ml-button-horizontal primary ">
-										<button type="submit" class="primary">Subscribe</button>
+										<button type="submit" class="primary">Send me the mails!</button>
 
 										<button
 											disabled="disabled"
