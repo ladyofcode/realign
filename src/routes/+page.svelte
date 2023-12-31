@@ -1472,7 +1472,7 @@
 		<h2>Time commitment</h2>
 		<p>
 			The amount of time spent weekly is variable depending on the task - an evening, maybe a day of
-			your weekend. Alternatively, spread the tasks throughout the week.
+			your weekend. Alternatively, spread the tasks throughout the week. Having said that, if you're doing something like building an entire portfolio from scratch, allocate more time accordingly.
 		</p>
 	</div>
 	<div class="container">
